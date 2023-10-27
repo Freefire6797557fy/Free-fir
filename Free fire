@@ -1,0 +1,7 @@
+echo "# Free-fire-dimond-hack" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Freefire6797557fy/Free-fire-dimond-hack.git
+git push -u origin main
